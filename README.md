@@ -23,11 +23,11 @@ Decision-making involves balancing potential business losses from declined loans
 
 ## Conclusions
 Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
-    1. DTI 
-    2. Grades
-    3. Employment length
-    4. Annual income
-    5. Purpose
+ -   1. DTI 
+ -   2. Grades
+ -   3. Employment length
+ -  4. Annual income
+ -   5. Purpose
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
